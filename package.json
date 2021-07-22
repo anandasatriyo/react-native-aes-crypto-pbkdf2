@@ -1,0 +1,35 @@
+{
+    "name": "react-native-aes-crypto-pbkdf2",
+    "version": "1.0.0",
+    "description": "AES crypto native module for react-native",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "author": "taekkuda",
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "react-component",W
+        "android",
+        "aes",
+        "crypto",
+        "mobile",
+        "async",
+        "sha1",
+        "sha256",
+        "sha512",
+        "pbkdf2",
+        "hmac256",
+        "uuid"
+    ],
+    "homepage": "https://github.com/taekkuda/react-native-aes-crypto-pbkdf2",
+    "bugs": {
+        "url": "https://github.com/taekkuda/react-native-aes-crypto-pbkdf2/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/taekkuda/react-native-aes-crypto-pbkdf2.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
